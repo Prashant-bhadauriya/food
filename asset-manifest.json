@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/food/static/css/main.852fc404.chunk.css",
+    "main.js": "/food/static/js/main.65225627.chunk.js",
+    "main.js.map": "/food/static/js/main.65225627.chunk.js.map",
+    "runtime-main.js": "/food/static/js/runtime-main.03e07b6b.js",
+    "runtime-main.js.map": "/food/static/js/runtime-main.03e07b6b.js.map",
+    "static/css/2.17e5ed98.chunk.css": "/food/static/css/2.17e5ed98.chunk.css",
+    "static/js/2.31232b45.chunk.js": "/food/static/js/2.31232b45.chunk.js",
+    "static/js/2.31232b45.chunk.js.map": "/food/static/js/2.31232b45.chunk.js.map",
+    "index.html": "/food/index.html",
+    "precache-manifest.0cf5a43d176ca2cef06411bf5c1151cb.js": "/food/precache-manifest.0cf5a43d176ca2cef06411bf5c1151cb.js",
+    "service-worker.js": "/food/service-worker.js",
+    "static/css/2.17e5ed98.chunk.css.map": "/food/static/css/2.17e5ed98.chunk.css.map",
+    "static/css/main.852fc404.chunk.css.map": "/food/static/css/main.852fc404.chunk.css.map",
+    "static/media/order.css": "/food/static/media/Image.61fbdb11.png",
+    "static/media/br.jpg": "/food/static/media/br.17a572b8.jpg",
+    "static/media/burger.jpg": "/food/static/media/burger.68bd3791.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.03e07b6b.js",
+    "static/css/2.17e5ed98.chunk.css",
+    "static/js/2.31232b45.chunk.js",
+    "static/css/main.852fc404.chunk.css",
+    "static/js/main.65225627.chunk.js"
+  ]
+}
